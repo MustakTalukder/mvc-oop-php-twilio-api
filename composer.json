@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "classmap": ["./"]
+    },
+    "require": {
+        "twilio/sdk": "^5.34"
+    }
+}
